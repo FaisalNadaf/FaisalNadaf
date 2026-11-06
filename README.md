@@ -19,59 +19,79 @@
 
 ## About me
 
-I'm a DevOps Engineer and Full-Stack Developer with 3+ years of experience building and shipping software. I started with web and mobile apps in React, Next.js, Node.js and Flutter. Now I focus on what happens after the code is written: packaging services into containers, automating deployments and running them on Linux servers in the cloud.
+<h3 align="center">👋 Hi, I'm Faisal: I build the app, then <ins>ship it</ins>.</h3>
 
-Because I build the apps myself, I treat infrastructure as part of the product. I want deploys that are repeatable, configuration that stays out of the code, and a pipeline that turns `git push` into a running service.
+I'm a **`DevOps Engineer`** and **`Full-Stack Developer`** with **3+ years** of experience building and shipping software. I started with web and mobile apps in **React**, **Next.js**, **Node.js** and **Flutter**. Now I focus on what happens *after* the code is written: **packaging services into containers**, **automating deployments** and **running them on Linux servers in the cloud**.
 
-- **CI/CD:** GitHub Actions workflows that deploy on every push to `main`, with credentials kept in GitHub Secrets.
-- **Containers:** Dockerfiles and Docker Compose stacks for React and Next.js apps, including a Next.js and PostgreSQL setup.
-- **Cloud and servers:** Ubuntu on AWS EC2 deployed over SSH, plus Vercel, Netlify and Render with health checks and auto-deploy.
-- **Full-stack and AI:** MERN and Next.js + Prisma apps, Flutter mobile apps, and Gemini, OpenAI and TensorFlow integrations.
+> [!NOTE]
+> **My philosophy:** I build the apps myself, so I treat **infrastructure as part of the product**. I want deploys that are **repeatable**, configuration that **stays out of the code**, and a pipeline that turns `git push` into a **running service**.
+
+### 🚀 What I work on
+
+| | Focus | What I've built |
+| :-: | :-- | :-- |
+| ⚙️ | **CI/CD** | **GitHub Actions** workflows that deploy on every push to `main`, with credentials kept in **GitHub Secrets**. |
+| 🐳 | **Containers** | **Dockerfiles** and **Docker Compose** stacks for React and Next.js apps, including a **Next.js + PostgreSQL** setup. |
+| ☁️ | **Cloud & servers** | **Ubuntu on AWS EC2** deployed over SSH, plus **Vercel**, **Netlify** and **Render** with health checks and auto-deploy. |
+| 🧩 | **Full-stack & AI** | **MERN** and **Next.js + Prisma** apps, **Flutter** mobile apps, and **Gemini**, **OpenAI** and **TensorFlow** integrations. |
+
+> [!TIP]
+> 🏆 **7× national-level hackathon winner** &nbsp;·&nbsp; 📍 Belgaum, Karnataka, India &nbsp;·&nbsp; 🌱 Learning **Terraform**, **Prometheus** and **Grafana** next
 
 ## Tech stack
 
-#### DevOps & Cloud
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,aws,nginx&theme=dark" height="48" alt="Linux, Ubuntu, Bash, AWS, Nginx" />&nbsp;
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,github&theme=dark" height="48" alt="Docker, Kubernetes, GitHub Actions, Git, GitHub" />
-
-<code>CI/CD&nbsp;pipelines</code> <code>Cloud&nbsp;infrastructure</code> <code>Server&nbsp;deployment</code> <code>Monitoring&nbsp;&amp;&nbsp;automation</code> <code>Docker&nbsp;Compose</code> <code>GitHub&nbsp;Secrets</code>
-
-<sub>Exploring next: Terraform for infrastructure as code, Prometheus and Grafana for metrics and alerts, and container registries (GHCR) so servers pull tested images.</sub>
-
-#### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=ts,js,py,java&theme=dark" height="40" alt="TypeScript, JavaScript, Python, Java" />
-
-#### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs&theme=dark" height="40" alt="React, Next.js, Vite, Tailwind CSS, Three.js" /><br />
-<sub>React Three Fiber · Zustand</sub>
-
-#### Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,prisma&theme=dark" height="40" alt="Node.js, Express, Flask, Prisma" /><br />
-<sub>Socket.io · JWT authentication · REST APIs</sub>
-
-#### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" height="40" alt="MongoDB, PostgreSQL, MySQL" /><br />
-<sub>Firestore · Redis (basics)</sub>
-
-#### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,vitest&theme=dark" height="40" alt="Vercel, Netlify, Firebase, Vitest" /><br />
-<sub>Render · Cloudflare Workers (basics) · Playwright · ESLint</sub>
-
-#### Mobile Development
-
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" height="40" alt="Flutter, Dart" /><br />
-<sub>Cross-platform mobile apps with Flutter and Dart</sub>
-
-#### AI & Automation
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" height="40" alt="TensorFlow, OpenCV" /><br />
-<sub>Gemini and OpenAI API integrations · automatic task prioritization with Gemini · TensorFlow/Keras models served through Flask</sub>
+<table>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <b>⚙️ DevOps &amp; Cloud</b><br />
+      <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,aws,nginx,docker,kubernetes,githubactions,git,github&theme=dark" height="44" alt="Linux, Ubuntu, Bash, AWS, Nginx, Docker, Kubernetes, GitHub Actions, Git, GitHub" /><br />
+      <code>CI/CD&nbsp;pipelines</code> <code>Cloud&nbsp;infrastructure</code> <code>Server&nbsp;deployment</code> <code>Monitoring&nbsp;&amp;&nbsp;automation</code> <code>Docker&nbsp;Compose</code> <code>GitHub&nbsp;Secrets</code><br />
+      <sub>🌱 Exploring next: <b>Terraform</b> for infrastructure as code, <b>Prometheus</b> and <b>Grafana</b> for metrics and alerts, and container registries (<b>GHCR</b>) so servers pull tested images.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <b>💻 Programming Languages</b><br />
+      <img src="https://skillicons.dev/icons?i=ts,js,py,java&theme=dark" height="40" alt="TypeScript, JavaScript, Python, Java" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <b>🎨 Frontend Development</b><br />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs&theme=dark" height="40" alt="React, Next.js, Vite, Tailwind CSS, Three.js" /><br />
+      <sub>React Three Fiber · Zustand</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <b>🛠️ Backend Development</b><br />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,flask,prisma&theme=dark" height="40" alt="Node.js, Express, Flask, Prisma" /><br />
+      <sub>Socket.io · JWT authentication · REST APIs</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <b>🗄️ Databases</b><br />
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" height="40" alt="MongoDB, PostgreSQL, MySQL" /><br />
+      <sub>Firestore · Redis (basics)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <b>🧰 Tools &amp; Platforms</b><br />
+      <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,vitest&theme=dark" height="40" alt="Vercel, Netlify, Firebase, Vitest" /><br />
+      <sub>Render · Cloudflare Workers (basics) · Playwright · ESLint</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <b>📱 Mobile Development</b><br />
+      <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" height="40" alt="Flutter, Dart" /><br />
+      <sub>Cross-platform mobile apps with Flutter and Dart</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <b>🤖 AI &amp; Automation</b><br />
+      <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" height="40" alt="TensorFlow, OpenCV" /><br />
+      <sub>Gemini and OpenAI API integrations · automatic task prioritization with Gemini · TensorFlow/Keras models served through Flask</sub>
+    </td>
+  </tr>
+</table>
 
 ## How I ship
 
