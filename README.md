@@ -28,70 +28,23 @@ I'm a **`DevOps Engineer`** and **`Full-Stack Developer`** with **3+ years** of 
 
 ### 🚀 What I work on
 
-| | Focus | What I've built |
-| :-: | :-- | :-- |
-| ⚙️ | **CI/CD** | **GitHub Actions** workflows that deploy on every push to `main`, with credentials kept in **GitHub Secrets**. |
-| 🐳 | **Containers** | **Dockerfiles** and **Docker Compose** stacks for React and Next.js apps, including a **Next.js + PostgreSQL** setup. |
-| ☁️ | **Cloud & servers** | **Ubuntu on AWS EC2** deployed over SSH, plus **Vercel**, **Netlify** and **Render** with health checks and auto-deploy. |
-| 🧩 | **Full-stack & AI** | **MERN** and **Next.js + Prisma** apps, **Flutter** mobile apps, and **Gemini**, **OpenAI** and **TensorFlow** integrations. |
+<p align="center">
+  <img src="assets/work/cicd.svg" width="408" alt="CI/CD: GitHub Actions workflows that deploy on every push to main, with credentials kept in GitHub Secrets." /><img src="assets/work/containers.svg" width="408" alt="Containers: Dockerfiles and Docker Compose stacks for React and Next.js apps, including a Next.js and PostgreSQL setup." /><br />
+  <img src="assets/work/cloud.svg" width="408" alt="Cloud and servers: Ubuntu on AWS EC2 deployed over SSH, plus Vercel, Netlify and Render with health checks and auto-deploy." /><img src="assets/work/fullstack-ai.svg" width="408" alt="Full-stack and AI: MERN and Next.js + Prisma apps, Flutter mobile apps, and Gemini, OpenAI and TensorFlow integrations." />
+</p>
 
 > [!TIP]
 > 🏆 **7× national-level hackathon winner** &nbsp;·&nbsp; 📍 Belgaum, Karnataka, India &nbsp;·&nbsp; 🌱 Learning **Terraform**, **Prometheus** and **Grafana** next
 
 ## Tech stack
 
-<table>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <b>⚙️ DevOps &amp; Cloud</b><br />
-      <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,aws,nginx,docker,kubernetes,githubactions,git,github&theme=dark" height="44" alt="Linux, Ubuntu, Bash, AWS, Nginx, Docker, Kubernetes, GitHub Actions, Git, GitHub" /><br />
-      <code>CI/CD&nbsp;pipelines</code> <code>Cloud&nbsp;infrastructure</code> <code>Server&nbsp;deployment</code> <code>Monitoring&nbsp;&amp;&nbsp;automation</code> <code>Docker&nbsp;Compose</code> <code>GitHub&nbsp;Secrets</code><br />
-      <sub>🌱 Exploring next: <b>Terraform</b> for infrastructure as code, <b>Prometheus</b> and <b>Grafana</b> for metrics and alerts, and container registries (<b>GHCR</b>) so servers pull tested images.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <b>💻 Programming Languages</b><br />
-      <img src="https://skillicons.dev/icons?i=ts,js,py,java&theme=dark" height="40" alt="TypeScript, JavaScript, Python, Java" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <b>🎨 Frontend Development</b><br />
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs&theme=dark" height="40" alt="React, Next.js, Vite, Tailwind CSS, Three.js" /><br />
-      <sub>React Three Fiber · Zustand</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <b>🛠️ Backend Development</b><br />
-      <img src="https://skillicons.dev/icons?i=nodejs,express,flask,prisma&theme=dark" height="40" alt="Node.js, Express, Flask, Prisma" /><br />
-      <sub>Socket.io · JWT authentication · REST APIs</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <b>🗄️ Databases</b><br />
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" height="40" alt="MongoDB, PostgreSQL, MySQL" /><br />
-      <sub>Firestore · Redis (basics)</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <b>🧰 Tools &amp; Platforms</b><br />
-      <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,vitest&theme=dark" height="40" alt="Vercel, Netlify, Firebase, Vitest" /><br />
-      <sub>Render · Cloudflare Workers (basics) · Playwright · ESLint</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <b>📱 Mobile Development</b><br />
-      <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" height="40" alt="Flutter, Dart" /><br />
-      <sub>Cross-platform mobile apps with Flutter and Dart</sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <b>🤖 AI &amp; Automation</b><br />
-      <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" height="40" alt="TensorFlow, OpenCV" /><br />
-      <sub>Gemini and OpenAI API integrations · automatic task prioritization with Gemini · TensorFlow/Keras models served through Flask</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/stack/devops.svg" width="816" alt="DevOps and Cloud: Linux, Ubuntu, Bash, AWS, Nginx, Docker, Kubernetes, GitHub Actions, Git and GitHub. CI/CD pipelines, cloud infrastructure, server deployment, monitoring and automation, Docker Compose, GitHub Secrets. Exploring next: Terraform, Prometheus and Grafana, and GHCR container registries." /><br />
+  <img src="assets/stack/languages.svg" width="408" alt="Programming languages: TypeScript, JavaScript, Python, Java." /><img src="assets/stack/frontend.svg" width="408" alt="Frontend development: React, Next.js, Vite, Tailwind CSS, Three.js, React Three Fiber, Zustand." /><br />
+  <img src="assets/stack/backend.svg" width="408" alt="Backend development: Node.js, Express, Flask, Prisma, Socket.io, JWT authentication, REST APIs." /><img src="assets/stack/databases.svg" width="408" alt="Databases: MongoDB, PostgreSQL, MySQL, Firestore, Redis (basics)." /><br />
+  <img src="assets/stack/tools.svg" width="408" alt="Tools and platforms: Vercel, Netlify, Firebase, Vitest, Render, Cloudflare Workers (basics), Playwright, ESLint." /><img src="assets/stack/mobile.svg" width="408" alt="Mobile development: cross-platform mobile apps with Flutter and Dart." /><br />
+  <img src="assets/stack/ai.svg" width="816" alt="AI and automation: TensorFlow, OpenCV, Gemini and OpenAI API integrations, automatic task prioritization with Gemini, TensorFlow/Keras models served through Flask." />
+</p>
 
 ## How I ship
 
