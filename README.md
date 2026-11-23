@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/FaisalNadaf"><img src="assets/social/github.svg" height="44" alt="GitHub" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/faisal-nadaf-429160281/"><img src="assets/social/linkedin.svg" height="44" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://faisal-development.netlify.app"><img src="assets/social/portfolio.svg" height="44" alt="Portfolio website" /></a>&nbsp;
+  <!-- <a href="https://faisal-development.netlify.app"><img src="assets/social/portfolio.svg" height="44" alt="Portfolio website" /></a>&nbsp; -->
   <a href="mailto:faisalfnadaf@gmail.com"><img src="assets/social/email.svg" height="44" alt="Email" /></a>
 </p>
 
